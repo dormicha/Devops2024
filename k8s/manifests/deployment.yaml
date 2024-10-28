@@ -18,4 +18,4 @@ spec:
       - name: rock-paper-scissors
         image: dormicha/rock-paper-scissors
         ports:
-        - containerPort: 8080
+        - containerPort: 80
